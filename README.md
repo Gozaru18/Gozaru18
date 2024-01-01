@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gozaru18
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning a new programming language
+- 🌱 I’m currently enhancing my programming skills
 - 💞️ Have Fun and let's learn together 🔥
 .
 <!---
