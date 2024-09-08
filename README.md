@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Gozaru18
-- 👀 I’m interested in Programming
-- 🌱 I’m currently enhancing my programming skills
-- 💞️ Have Fun and let's learn together 🔥
+- 👋 Hi, I’m Fattah
+- 👀 I’m interested in Web3 Technology, BlockChainTech
+I don't know what to do
 .
 <!---
 Gozaru18/Gozaru18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
