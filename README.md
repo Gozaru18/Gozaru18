@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fattah
-- 👀 I’m interested in Web3 Technology, BlockChainTech
+- 👀 I’m interested in automation
 I don't know what to do
 .
 <!---
